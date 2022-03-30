@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/hamcrest-core-1.3.jar!/" />
+      <root url="jar:///opt/scenebuilder/lib/runtime/lib/javafx-swt.jar!/" />
+      <root url="file:///opt/scenebuilder/lib/runtime/lib" />
+      <root url="jar://$PROJECT_DIR$/libraries/scenebuilder-kit-8.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///opt/scenebuilder/lib/runtime/lib" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file:///opt/scenebuilder/lib/runtime/lib" recursive="false" />
+  </library>
+</component>
